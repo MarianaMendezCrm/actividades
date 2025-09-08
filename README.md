@@ -1,7 +1,9 @@
 NOMBRE: 
 Dulce Mariana Mendez Carmona
+
 NUMERO DE CONTROL:
 25150078
+
 1.-Contador de dígitos:
 
 Cuenta cuántos dígitos tiene un número entero.
